@@ -1,2 +1,2 @@
-# DigitRecognitionCNN
-Handwritten digit classifier: Convolutional Neural Network (model in C)
+# Digit Recognition
+Handwritten digit classifier: Deep Neural Network (model in C)
